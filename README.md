@@ -21,4 +21,4 @@ Customer purchasing behavior
 Key factors influencing sales during Diwali
 
 Conclusion
-The "Diwali Sales Analysis" project demonstrates how data analysis can be used to uncover valuable insights from sales data. By understanding sales patterns and customer behavior, businesses can make informed decisions to enhance their sales strategies during the Diwali season.
+Married women age group 26-35 yrs from UP, Maharastra and Karnataka working and mostly in central zone in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics Category
